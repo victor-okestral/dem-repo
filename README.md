@@ -1,2 +1,2 @@
-# dem-repo
+# demo-repo
 my new journey to github
